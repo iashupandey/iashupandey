@@ -20,7 +20,7 @@
 )
 
 
-LANGUAGE AND TOOLS
+LANGUAGES AND TOOLS
 
 ![](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff
 )
