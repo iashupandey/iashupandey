@@ -11,4 +11,23 @@
 - 📫 How to reach me: Instagram- iashu_pandey
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Do what you like
--->
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=iashupandey&count_private=true&show_icons=true&theme=radical
+)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IASHUPANDEY&show_icons=true&theme=radical
+)
+
+
+LANGUAGE AND TOOLS
+
+![](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff
+)
+![](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=fff)
+![](https://img.shields.io/badge/-JSS-F7DF1E?logo=JSS&logoColor=fff)
+![](https://img.shields.io/badge/-PYTHON-3776AB?logo=PYTHON&logoColor=fff)
+![](https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=fff)
+![](https://img.shields.io/badge/-PHP-777BB4C?logo=PHP&logoColor=fff)
+![](https://img.shields.io/badge/-PHPMYADMIN-6C78AFC?logo=PHPMYADMIN&logoColor=fff)
+
