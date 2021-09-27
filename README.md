@@ -3,15 +3,13 @@
 
 
  
-- 🔭 I’m currently working on Web Development.
+- 🔭 I’m currently working on Web Development and DS/AlGO.
 - 🌱 I’m currently learning HTML & CSS.
-- 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with someone who is passionate about web development.
 - 💬 Ask me about HTML/CSS or JAVA OR any tech related stuff
 - 📫 How to reach me:
-- GMAIL= pashu068@gmail.com
--  Instagram- iashu_pandey
-- 😄 Pronouns: He/His
+- GMAIL - pashu068@gmail.com
+-  Instagram - https://www.instagram.com/iashu_pandey/
 - ⚡ Fun fact: Do what you like
 
 
