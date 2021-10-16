@@ -1,4 +1,4 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23F7000B&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashutosh+kumar)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23F7000B&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashutosh+kumar)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iashupandey&label=Profile%20views&color=0e21b4&style=flat-square" alt="iashupandey" /> </p>
