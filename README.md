@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **HTML/CSS or JAVA OR any tech related stuff**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1hXhXRh3f-86bnwHyeaDAP2wYhDEcQrnN/view)
+- 📄 My Resume [Click Here](https://drive.google.com/file/d/1hXhXRh3f-86bnwHyeaDAP2wYhDEcQrnN/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
