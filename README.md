@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://twitter.com/ashupandey12345" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="ashupandey12345" height="60" width="70" /></a>
-  <a href="https://www.linkedin.com/in/ashutosh-kumar-517b391b3/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="ashutosh kumar" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/17023347" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="17023347" height="30" width="40" /></a>
+ <a href="https://twitter.com/ashupandey12345" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="ashupandey12345" height="100" width="100" /></a>
+  <a href="https://www.linkedin.com/in/ashutosh-kumar-517b391b3/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="ashutosh kumar" height="100" width="100" /></a>
+  <a href="https://stackoverflow.com/users/17023347" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="17023347" height="100" width="100" /></a>
 
 
 
