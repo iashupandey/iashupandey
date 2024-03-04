@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/ashupandey12345" target="blank"><img src="https://img.shields.io/twitter/follow/ashupandey12345?logo=twitter&style=for-the-badge" alt="ashupandey12345" /></a> </p>
 
-- 🔭 I’m currently working on **WEB DEVELOPMENT AND DS/ALGO**
+- 🔭 I’m currently working on **FULL STACK DEVELOPMENT AND DS/ALGO**
 
-- 🌱 I’m currently learning **PHP AND NODEJS**
+- 🌱 I’m currently learning **REACT AND NODEJS**
 
 - 🤝 I’m looking for help with **with someone who is passionate about web development**
 
-- 💬 Ask me about **HTML/CSS or JAVA OR any tech related stuff**
+- 💬 Ask me about **HTML/CSS or JAVA OR any tech-related stuff**
 
 - 📄 My Resume [Click Here](https://drive.google.com/file/d/1hXhXRh3f-86bnwHyeaDAP2wYhDEcQrnN/view)
 
