@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **with someone who is passionate about web development**
 
-- 💬 Ask me about **HTML/CSS or JAVA OR any tech-related stuff**
+- 💬 Ask me about **WEB TECHNOLOGY/FULL-STACK OR any tech-related stuff**
 
 - 📄 My Resume [Click Here](https://drive.google.com/file/d/1hXhXRh3f-86bnwHyeaDAP2wYhDEcQrnN/view)
 
