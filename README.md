@@ -2,7 +2,8 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
                                                                                                                                                                             
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iashupandey&label=Profile%20views&color=0e21b4&style=flat-square" alt="iashupandey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iashupandey" alt="iashupandey" /></a> </p>
